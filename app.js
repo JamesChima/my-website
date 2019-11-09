@@ -17,11 +17,3 @@ function error(message, color){
     para.textContent = message;
     para.style.color = color;
 }
-
-//Function to sort an Array
-// const arr = [1, 9, 7, 5, 9];
-// const sortedCopy = sortCopy(arr);
-// function sortCopy(arr){
-//   return console.log(`Sorted Array: ${arr.slice(0).sort()}`);
-// }
-// console.log (`Original Array: ${arr}` );
